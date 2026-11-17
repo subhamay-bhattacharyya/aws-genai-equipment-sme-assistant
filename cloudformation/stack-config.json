@@ -1,5 +1,5 @@
 {
-  "stackName": "github-repo-template-stack",
+  "stackName": "aws-genai-equipment-sme-assistant",
   "templateFile": "cloudformation/template.yaml",
   "parameterFile": "cloudformation/parameters.json"
 }
